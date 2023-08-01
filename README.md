@@ -22,6 +22,9 @@ messages).
 
 
 ## How to run
+
+to install: Download the apk file naming "app-release.apk"
+
 App Flow:
 - Landing page
 - SignIn / SingUp page
