@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1079329461845",
+    "project_id": "e-com-snsilos",
+    "storage_bucket": "e-com-snsilos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079329461845:android:e2ff2856242a961a94a6dc",
+        "android_client_info": {
+          "package_name": "com.example.e_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079329461845-n5gup1c0vncmd452jni4a9q5q4b49akb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhgDM0r9FQGvybyReTITC1lQKmsT6ZQ90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079329461845-n5gup1c0vncmd452jni4a9q5q4b49akb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079329461845-f7kbqau137m6j7lhvjeet52i2q6mpkbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
